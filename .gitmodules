@@ -1,0 +1,18 @@
+[submodule "arm-linux-gnueabihf-binutils"]
+	path = arm-linux-gnueabihf-binutils
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-binutils.git
+[submodule "arm-linux-gnueabihf-gcc-stage1"]
+	path = arm-linux-gnueabihf-gcc-stage1
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-gcc-stage1.git
+[submodule "arm-linux-gnueabihf-glibc-headers"]
+	path = arm-linux-gnueabihf-glibc-headers
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-glibc-headers.git
+[submodule "arm-linux-gnueabihf-gcc-stage2"]
+	path = arm-linux-gnueabihf-gcc-stage2
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-gcc-stage2.git
+[submodule "arm-linux-gnueabihf-glibc"]
+	path = arm-linux-gnueabihf-glibc
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-glibc.git
+[submodule "arm-linux-gnueabihf-gcc"]
+	path = arm-linux-gnueabihf-gcc
+	url = ssh://aur@aur.archlinux.org/arm-linux-gnueabihf-gcc.git
